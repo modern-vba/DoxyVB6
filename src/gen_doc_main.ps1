@@ -1,4 +1,4 @@
-﻿$ErrorActionPreference = 'Stop'
+$ErrorActionPreference = 'Stop'
 $InformationPreference = 'Continue'
 
 $current_dir = (Get-Location).ProviderPath

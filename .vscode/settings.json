@@ -1,4 +1,9 @@
 {
+    "[powershell]": {
+      "files.encoding": "utf16le",
+      "files.eol": "\r\n",
+      "files.insertFinalNewline": true
+    },
     "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
     "python.testing.pytestArgs": [
         "tests",
